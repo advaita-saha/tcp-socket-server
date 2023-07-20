@@ -10,6 +10,7 @@ cargo run -p tcpserver
 # Run the client (in a different terminal) [don't close the terminal running the server]
 cargo run -p tcpclient
 ```
+## The TCP Layer
 
 The provides reliable end-to-end communication. While the application layer Transport layer
 deals with messages that have specific semantics (such as sending a GET request to get shipment
