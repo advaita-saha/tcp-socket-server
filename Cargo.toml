@@ -9,5 +9,5 @@ edition = "2021"
 
 [workspace]
 members = [
-	"tcpserver", "tcpclient", "http", "httpserver"
+	"tcpserver", "tcpclient"
 ]
