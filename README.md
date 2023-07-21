@@ -21,5 +21,5 @@ Internet Connection) also being a recent entrant. TCP is a connection-oriented p
 allows data to be partitioned for transmission and reassembled in a reliable manner at the
 receiving end. UDP is a connectionless protocol and does not provide guarantees on delivery,
 unlike TCP. UDP is consequently faster and suitable for certain class of applications eg DNS
-lookups, voice or video applications.In this book, we will focus on the TCP protocol for transport
+lookups, voice or video applications. Here, we will focus on the TCP protocol for transport
 layer.
